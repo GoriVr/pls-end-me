@@ -23,4 +23,4 @@ if(message.content === "*ping") {
   message.channel.send("pong!")
 }
 })
-client.login("ODYxNTgyMjI3Mzc2ODMyNTIz.YOL4-g.3QUJ55zMukoA0zim2GV2LLxrlAg")
+client.login("[REDACTED]")
